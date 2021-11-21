@@ -1,1 +1,1 @@
-print('hellow python!')
+print('5+6')
