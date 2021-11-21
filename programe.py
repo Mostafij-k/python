@@ -1,2 +1,2 @@
-print('5+6')
-print('8+7')
+print(5+6)
+print(8+7)
